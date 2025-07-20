@@ -19,7 +19,7 @@ This repository provides a Bash script to quickly deploy multiple Nexus Testnet 
 For a streamlined deployment, execute the following one-liner command in your terminal (click the copy button in the code block to copy it directly):
 
 ```
-curl -L -o nexus-tmux-advanced.sh https://raw.githubusercontent.com/your-username/nexus-testnet3-multi-nodes-quick-deploy/main/nexus-tmux-advanced.sh && chmod +x nexus-tmux-advanced.sh && ./nexus-tmux-advanced.sh
+curl -L -o nexus-tmux-advanced.sh https://raw.githubusercontent.com/nauthnael/nexus-testnet3-multi-nodes-quick-deploy/refs/heads/main/nexus-tmux-advanced.sh && chmod +x nexus-tmux-advanced.sh && ./nexus-tmux-advanced.sh
 ```
 
 Alternatively, follow these step-by-step instructions:
